@@ -1,0 +1,43 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 27 oct 2023, 16:06:37
+    Author     : Sodert
+*/
+
+*{
+    text-align: center;
+}
+
+#grande{
+    text-decoration-color: red;
+    color: red;
+}
+
+#chica{
+    text-decoration-color: green;
+    color: green;
+}
+
+#pares{
+    text-decoration-color: brown; 
+    color:brown;
+}
+
+#total{
+    text-decoration-color: blue;
+    color: blue;
+}
+
+#boton{
+    background: linear-gradient(to bottom right, blue, pink); 
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    width: 10%;    
+    height: 5%;
+    border-radius: 10%;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
