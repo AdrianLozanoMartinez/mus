@@ -3,52 +3,52 @@
         echo "<u>J U E G O   D E L   M U S</u>";
         $cartas = [
             [
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-1-minimalart.png",                        
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-2-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-3-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-4-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-5-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-6-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-7-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-10-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-11-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-12-minimalart.png"
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-1-minimalart.png",                        
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-2-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-3-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-4-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-5-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-6-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-7-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-10-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-11-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-espadas-12-minimalart.png"
             ],
             [
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-1-minimalart.png",                        
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-2-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-3-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-4-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-5-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-6-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-7-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-10-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-11-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-12-minimalart.png"
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-1-minimalart.png",                        
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-2-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-3-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-4-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-5-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-6-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-7-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-10-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-11-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-oros-12-minimalart.png"
             ],
             [
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-1-minimalart.png",                        
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-2-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-3-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-4-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-5-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-6-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-7-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-10-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-11-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-12-minimalart.png"
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-1-minimalart.png",                        
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-2-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-3-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-4-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-5-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-6-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-7-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-10-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-11-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-copas-12-minimalart.png"
             ],
             [
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-1-minimalart.png",                        
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-2-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-3-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-4-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-5-min.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-6-min.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-7-min.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-10-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-11-minimalart.png",
-                "https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-12-minimalart.png"
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-1-minimalart.png",                        
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-2-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-3-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-4-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-5-min.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-6-min.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-7-min.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-10-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-11-minimalart.png",
+                "https://web.archive.org/web/20231203065510im_/https://asart.com.ar/wp-content/uploads/2020/02/asart-naipes-bastos-12-minimalart.png"
             ]
         ];
         $contGrandJug1 = [];
